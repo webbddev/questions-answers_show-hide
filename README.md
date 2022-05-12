@@ -9,6 +9,8 @@
 
 - Purpose of the project is to train myself on using useState, manipulating data (an array of objects) and implementing Icon show/hide functionality
 
+![](public/My%20Video.gif)
+
 ##### Technologies Used
 
 - React.Js
